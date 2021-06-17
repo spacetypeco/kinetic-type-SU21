@@ -20,7 +20,7 @@ During the course of four evenings, there will be weekly lectures and demonstrat
 |Week|Topic| Sketch Links |Assignments
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)|[Sketches](https://editor.p5js.org/kyeah/collections/1_JEsYCEw) <br> [Class Tutorial](tutorials/1-programs-js-and-p5.md)|Interactive piece <br> + Video Tutorials
-|2|TBD| | 
+|2|[Math & Animation](#section-2-math-and-animation) | | 
 |3|TBD| | 
 |4|Mini Project Presentation + TBD| |
 
@@ -63,6 +63,34 @@ Class materials: Grid paper
 * [Color by Coding Train](https://youtu.be/riiJTF5-N7c)
 * [Variables in p5.js(mouseX, mouseY) by Coding Train](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&t=0s)
 * [The random() Function by Coding Train](https://youtu.be/nfmV2kuQKwA)
+
+## Section 2: Math and Animation
+
+- Assignment Show & Share / Q&A
+- "Kinetic Typography Sample Kit" Lecture
+- Vectors
+
+*~ Break ~*
+
+- Classes as Templates
+- Bringing in a Font File to p5.js
+
+## ✏️ Week 2 Homework
+
+### Assignment
+Create a piece that has moving typography!
+
+* (beginner) Take demo sketches and modify them (for example: Can you swap out the 'circles' from class demo and replace them with different shapes/colors? )
+* (intermediate+) Utilize classes to create an animated kinetic type sketch (if you're out of ideas, try to recreate an existing piece by someone as a learning experience!)
+
+### (Optional Video Tutorials via 🚂)
+
+* [Transformations Pt.1 (Translate, Rotate, Push/Pop)](https://www.youtube.com/watch?v=o9sgjuh-CBM)  by Coding Train
+* [Transformations Pt.2 (Scale)](https://www.youtube.com/watch?v=pkHZTWOoTLM) by Coding Train
+* [What is a Vector?](https://www.youtube.com/watch?v=bKEaK7WNLzM) by Coding Train
+* [Vector Math by Coding Train](https://www.youtube.com/watch?v=Rob0pbE7kks) by Coding Train
+* [Classes in Javascript with ES6](https://www.youtube.com/watch?v=T-HGdc8L-7w&t=1122s) by Coding Train
+
 
 ## 📚 General Resources
 
