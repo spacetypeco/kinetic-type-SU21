@@ -91,6 +91,26 @@ Create a piece that has moving typography!
 * [Vector Math by Coding Train](https://www.youtube.com/watch?v=Rob0pbE7kks) by Coding Train
 * [Classes in Javascript with ES6](https://www.youtube.com/watch?v=T-HGdc8L-7w&t=1122s) by Coding Train
 
+## Section 3: Tools to transform Text
+
+## ✏️ Week 3 Homework
+
+### Assignment
+
+* Create a sketch utilizing the [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints) function in p5
+	* (beginners) Try to modify the sketches! modify text, color, shapes, etc. 
+	* (intermediate+) Apply a way to apply motion to textToPoints. Think of possible user input (mic volume, mouse), or it could be generated on its own (such as sin waves)
+
+### (Optional Video Tutorials via 🚂)
+
+* if you are still confused by (let i=0; i<100; i++) watch [Incrementation Operators](https://www.youtube.com/watch?v=T26OJGjI8qI) by Coding Train
+* if you want to utilize more random() functions watch [The Random() Function](https://www.youtube.com/watch?v=POn4cZ0jL-o&t=1s) by Coding Train
+
+### (Extra Optional Advanced Video Tutorial via 🚂)
+
+* [Steering Behaviors](https://thecodingtrain.com/CodingChallenges/059-steering-text-paths.html) by Coding Train
+
+
 
 ## 📚 General Resources
 
