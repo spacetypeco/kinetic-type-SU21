@@ -1,4 +1,4 @@
-# Glitch Typography
+# Kinetic Typography
 
 ![](img/Kinetic_website.gif)
 
